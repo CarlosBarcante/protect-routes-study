@@ -24,9 +24,14 @@
 }
 
 .lessons {
+    margin-top: 20px;
     font-size: 20px;
     list-style: none;
     text-align: center;
+}
+
+.lessons li {
+    margin-top: 10px;
 }
 
 .page {
